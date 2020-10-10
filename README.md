@@ -30,23 +30,20 @@ The work is developed following the below index, starting from the Data Understa
 
     3.2	Correlation
 
-    3.3	Euclidean Distance 
+    3.3	Euclidean Distance
 
 
 4.	Data Exploration
 
-    4.1	Histograms 
+    4.1	Histograms
 
-    4.2	Scatter Plot 
+    4.2	Scatter Plot
 
 
 5.	Data Modelling
 
     5.1	Logistic Regression Model
 
-
-6.	Discussion and reflection of the work
-   
-   
-
-
+6.  Discussion and reflection of the work 
+ 
+    6.1 Discussion and reflection of the work 
